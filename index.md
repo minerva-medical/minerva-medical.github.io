@@ -21,7 +21,7 @@ This application will keep track of inventory for items such as medications, vac
 ## User Guide
 
 Currently our application is in the early stages of development. Below are screenshot of mockups created for our team to work towards. 
-### Our Progress
+### Our Progress...
 ### Landing Page
 The user is prompted to the landing page containing the sites name and logo. Here they are presented with two options to login or register a new account.
 
@@ -122,6 +122,7 @@ Milestone 2: Start after completion of Milestone 1.
 Milestone 3: Start after completion of Milestone 2.
 
 ## Contact Us
+If you would like to contact the creators of Minerva Medical you can email us at at the following email addresses.
 
 [Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu\
 [Mujitaba Quadri](https://mujtaba-a-quadri.github.io) - mujtabaq@hawaii.edu\
