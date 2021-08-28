@@ -56,7 +56,7 @@ If you wish to install the _**Minerva**_ application locally, you can follow the
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, download a copy of [Minerva Medical](https://github.com/minerva-medical/minerva).
+Second, download a copy of [Minerva](https://github.com/minerva-medical/minerva).
 
 Third, open up your terminal/command prompt and cd into the app directory of the Minerva Medical copy you had just downloaded
 and install the necessary libraries by invoking meteor npm install:
