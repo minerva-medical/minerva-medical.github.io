@@ -19,12 +19,14 @@ Our team hopes to create a suitable application that not only assists the staff 
 This application will keep track of inventory for items such as medications, vaccinations, lab tests/supplies, and patient supplies. We also intend for the application to keep patient medical records up to date with any vaccine or medication history. An example of this is the displaying of vaccine information on a patients medical chart if they have received that vaccine. We also have the goal of providing the location of each item in the mobile clinic's inventory so that staff are able to easily access products. After completion, we hope to have the staff at Medical Outreach Clinic utilize this application in addition to their medical records application _**Athena**_ to provide a smoother experience for both the staff and the patients. 
 
 ## Mockups
-###Landing Page
+### Landing Page
 The user is prompted to the landing page containing the sites name and logo. Here they are presented with two options to login or register a new account.
 ![](images/landing.png)
-###Login and Sign-Up Page
+
+### Login and Sign-Up Page
 When the user clicks the “Login” button they are prompted to a page in which they must enter their existing username and password.
 ![](images/login.png)
+
 Alternately, when the user clicks the “Register” button they are prompted to a page in which they must enter their existing first and last name, username, employeeID (subject to change) and password.
 ![](images/register.png)
 
