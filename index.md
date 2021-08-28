@@ -20,8 +20,8 @@ This application will keep track of inventory for items such as medications, vac
 
 ## Team
 
-<dd>[Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu</dd> 
-<dd>Abdullah - mujtabaq@hawaii.edu</dd> 
+[Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu 
+Abdullah - mujtabaq@hawaii.edu
 Len - lene.nguyen99@gmail.com 
 Nelson - nelson35@hawaii.edu 
 Jessica O - jnocampo@hawaii.edu 
