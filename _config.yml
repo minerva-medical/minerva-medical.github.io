@@ -2,7 +2,7 @@ title: Minerva Medical
 description: A Medical Inventory App
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist
 github:
   is_project_page: true
   repository_url: https://github.com/minerva-medical
