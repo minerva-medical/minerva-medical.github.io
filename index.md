@@ -122,7 +122,7 @@ Milestone 2: Start after completion of Milestone 1.
 Milestone 3: Start after completion of Milestone 2.
 
 ## Contact Us
-If you would like to contact the creators of _**Minerva Medical**_ you can email us at at the following email addresses.
+If you would like to contact the creators of _**Minerva Medical**_ you can email us at:
 
 [Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu\
 [Mujitaba Quadri](https://mujtaba-a-quadri.github.io) - mujtabaq@hawaii.edu\
