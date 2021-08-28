@@ -20,7 +20,7 @@ This application will keep track of inventory for items such as medications, vac
 
 ## User Guide
 
-Currently our application is in the early stages of development. Below are screenshot of mockups created for our team to work towards. 
+Currently our application is in the early stages of development. Below are screenshots of mockups created for our team to work towards. 
 ### Our Progress...
 ### Landing Page
 The user is prompted to the landing page containing the sites name and logo. Here they are presented with two options to login or register a new account.
