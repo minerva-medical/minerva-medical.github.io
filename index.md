@@ -30,6 +30,15 @@ When the user clicks the “Login” button they are prompted to a page in which
 Alternately, when the user clicks the “Register” button they are prompted to a page in which they must enter their First and Last Name, username, employeeID (subject to change) and password.
 ![](images/register.png)
 
+### Inventory Categories
+After signing up or logging in, the user will be provided with the option of viewing the inventories for either medications, vaccines, lab/testing supplies, and  patient supplies. 
+
+### Inventory Status Page
+Once a category is selected, the user will be brought to a page showing a table of the chosen category. This will include information such as drug/vaccine/supply, lot number, expiration, and quantity. When the user selects a specific item from the list, a popup of the item will be displayed to the screen showing more information such as status and location. 
+
+### Logoff Page
+Upon logging off the site the user is prompted with a goodbye message confirming that they have logged off the system. Here they have an option of logging back in.
+
 ## Developer Guide
 If you wish to install the Minerva Medical application locally, you can follow the directions below. 
 
