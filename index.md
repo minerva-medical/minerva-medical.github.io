@@ -93,10 +93,10 @@ Milestone 3: Start after completion of Milestone 2.
 ## Team
 
 [Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu\
-Abdullah - mujtabaq@hawaii.edu\
-Len - lene.nguyen99@gmail.com\
-Nelson - nelson35@hawaii.edu\
-Jessica - jnocampo@hawaii.edu\
-Alyssandra - alyssand@hawaii.edu\
-Jake - jakehiji@hawaii.edu\
-Steven - guanhong@hawaii.edu
+[Mujitaba Quadri](https://mujtaba-a-quadri.github.io) - mujtabaq@hawaii.edu\
+[Len Nguyen](https://len-nguyen.github.io) - lene.nguyen99@gmail.com\
+[Nelson Liang](https://nelson-liang.github.io) - nelson35@hawaii.edu\
+[Jessica Ocampo](https://jnocampo.github.io) - jnocampo@hawaii.edu\
+[Alyssandra Cabading](https://alyssandra-cabading.github.io) - alyssand@hawaii.edu\
+[Jake Hijirida](https://jakehiji.github.io) - jakehiji@hawaii.edu\
+[Guanhong Li](https://guanhongl.github.io) - guanhong@hawaii.edu
