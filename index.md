@@ -23,7 +23,7 @@ This application will keep track of inventory for items such as medications, vac
 ## Developer Guide
 If you wish to install the Minerva Medical application locally, you can follow the directions below. 
 
-First, [install Meteor](https://www.meteor.com/install):
+First, [install Meteor](https://www.meteor.com/install).
 
 Second, download a copy of [Minerva Medical](https://github.com/minerva-medical) (will need to update link when repo is created) from Github.
 
