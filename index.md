@@ -4,10 +4,10 @@
 
 * [Overview](#overview)
 * [Goal](#goal-of-the-application)
-* [Mockups](#mockups)
+* [User Guide](#user-guide)
 * [Developers](#developer-guide)
 * [Development History](#development-history)
-* [Team](#team)
+* [Contact Us](#contact-us)
 
 ## Overview
 
@@ -18,7 +18,10 @@ Our team hopes to create a suitable application that not only assists the staff 
 
 This application will keep track of inventory for items such as medications, vaccinations, lab tests/supplies, and patient supplies. We also intend for the application to keep patient medical records up to date with any vaccine or medication history. An example of this is the displaying of vaccine information on a patients medical chart if they have received that vaccine. We also have the goal of providing the location of each item in the mobile clinic's inventory so that staff are able to easily access products. After completion, we hope to have the staff at Medical Outreach Clinic utilize this application in addition to their medical records application _**Athena**_ to provide a smoother experience for both the staff and the patients. 
 
-## Mockups
+## User Guide
+
+Currently our application is in the early stages of development. Below are screenshot of mockups created for our team to work towards. 
+### Our Progress
 ### Landing Page
 The user is prompted to the landing page containing the sites name and logo. Here they are presented with two options to login or register a new account.
 
@@ -118,7 +121,7 @@ Milestone 2: Start after completion of Milestone 1.
 
 Milestone 3: Start after completion of Milestone 2.
 
-## Team
+## Contact Us
 
 [Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu\
 [Mujitaba Quadri](https://mujtaba-a-quadri.github.io) - mujtabaq@hawaii.edu\
