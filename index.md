@@ -23,7 +23,7 @@ This application will keep track of inventory for items such as medications, vac
 
 First, [install Meteor](https://www.meteor.com/install):
 
-Second, download a copy of [Minerva Medical](https://github.com/minerva-medical) (will need to update link when repor is created) from Github.
+Second, download a copy of [Minerva Medical](https://github.com/minerva-medical) (will need to update link when repo is created) from Github.
 
 Third, open up your terminal/command prompt and cd into the app directory of the Minerva Medical copy you had just downloaded
 and install the necessary libraries by invoking meteor npm install:
