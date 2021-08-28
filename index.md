@@ -52,7 +52,7 @@ Upon logging off the site the user is prompted with a goodbye message confirming
 ![](images/Logout.png)
 
 ## Developer Guide
-If you wish to install the _**Minerva Medical**_ application locally, you can follow the directions below. 
+If you wish to install the _**Minerva**_ application locally, you can follow the directions below. 
 
 First, [install Meteor](https://www.meteor.com/install).
 
