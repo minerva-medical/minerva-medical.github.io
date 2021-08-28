@@ -1,3 +1,5 @@
+<!-- Minerva Medical -->
+
 ## Table of contents
 
 * [Overview](#overview)
@@ -20,11 +22,11 @@ This application will keep track of inventory for items such as medications, vac
 
 ## Team
 
-[Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu 
-Abdullah - mujtabaq@hawaii.edu
-Len - lene.nguyen99@gmail.com 
-Nelson - nelson35@hawaii.edu 
-Jessica O - jnocampo@hawaii.edu 
-Alyssandra - alyssand@hawaii.edu 
-Jake H - jakehiji@hawaii.edu 
+[Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu\
+Abdullah - mujtabaq@hawaii.edu\
+Len - lene.nguyen99@gmail.com\
+Nelson - nelson35@hawaii.edu\
+Jessica - jnocampo@hawaii.edu\
+Alyssandra - alyssand@hawaii.edu\
+Jake - jakehiji@hawaii.edu\
 Steven - guanhong@hawaii.edu
