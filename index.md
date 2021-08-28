@@ -5,7 +5,8 @@
 * [Overview](#overview)
 * [Goal](#goal-of-the-application)
 * [Mockups](#mockups)
-* [Development](#developer-guide)
+* [Developers](#developer-guide)
+* [Development History](#development-history)
 * [Team](#team)
 
 ## Overview
@@ -20,6 +21,7 @@ This application will keep track of inventory for items such as medications, vac
 ## Mockups
 
 ## Developer Guide
+If you wish to install the Minerva Medical application locally, you can follow the directions below. 
 
 First, [install Meteor](https://www.meteor.com/install):
 
@@ -81,7 +83,12 @@ Lastly, you can run ESLint over the code in the imports/directory with:
 $ meteor npm run lint
 ```
 
+## Development History
+Milestone 1: In progress..
 
+Milestone 2: Start after completion of Milestone 1.
+
+Milestone 3: Start after completion of Milestone 2.
 
 ## Team
 
