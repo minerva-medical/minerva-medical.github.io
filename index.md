@@ -12,7 +12,7 @@
 ## Overview
 
 Welcome to Minerva Medical! The goal of this project is to create and provide an application that keeps track of supply inventory for the Medical Outreach Clinic, who help residents around the island by means of a mobile clinic. 
-Our team hopes to create a suitable application that will not only assists the staff at Medical Outreach Clinic, but also assists in providing a smoother patient experience. 
+Our team hopes to create a suitable application that not only assists the staff at Medical Outreach Clinic, but also assists in providing a smoother patient experience. 
 
 ## Goal of the Application
 
