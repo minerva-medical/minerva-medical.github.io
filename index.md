@@ -5,8 +5,8 @@
 
 ## Overview
 
-lorem
+Welcome to Minerva Medical!
 
 ## Team
 
-lorem
+[Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu
