@@ -32,15 +32,7 @@ and install the necessary libraries by invoking meteor npm install:
 $ meteor npm install
 ```
 
-You must also install a pie chart library since our application will be using pie charts to display analytics. If this is not installed, then you won't be able to view the application. 
-
-To do this, you can install the following libraries:
-
-```
-$ npm install underscore
-````
-
-After the library is installed, you can run the application by typing in the command:
+After meteor is installed, you can run the application by typing in the command:
 
 ```
 $ meteor npm run start
