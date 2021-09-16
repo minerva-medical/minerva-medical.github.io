@@ -87,7 +87,7 @@ When a user wants to dispense a medication or supply, they will be able to fill 
 * Units dispensed
 * Additional notes that the user wants to include
  
-The date dispensed and the dispensed by fields are already configured to be autofilled by the current date and time and the current user. This will help provide the user with a better experience.
+The date dispensed and the dispensed by fields are already configured to be autofilled by the current date and time and the current user. This will help provide the user with a better experience. Users will also be able to clear the form if a mistake was made during the filling out process. 
 
 ![](images/dispenseweb.png)
 
