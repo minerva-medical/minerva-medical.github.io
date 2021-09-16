@@ -32,23 +32,35 @@ When the user clicks the “Login” button they are prompted to a page in which
 
 ![](images/signinweb.png)
 
-Alternately, when the user clicks the “Register” button they are prompted to a page in which they must enter their First and Last Name, username, employeeID (subject to change) and password. This page is still in progress.
+Alternately, when the user clicks the “Register” button they are prompted to a page in which they must enter their First and Last Name, username, employeeID (subject to change) and password. This page is still in progress, and there is no current up and running mockup for this page available at this time. 
 
+![](images/register.png)
 
 ### Inventory Categories
-After signing up or logging in, the user will be provided with the option of viewing the inventories for either medications, vaccines, lab/testing supplies, and  patient supplies.
+After signing up or logging in, the user will be provided with the option of viewing the inventories for either medications, vaccines, lab/testing supplies, and  patient supplies. This page is still in progress, and there is no current up and running mockup for this page available at this time. 
 
 ![](images/Inventories.png)
 
 ### Inventory Status Page
 Once a category is selected, the user will be brought to a page showing a table of the chosen category. This will include information such as drug/vaccine/supply, lot number, expiration, and quantity. When the user selects a specific item from the list, a popup of the item will be displayed on the screen showing more information on the item such as status and location. A navigation bar will also be present for the user to visit other inventory categories or to go to the home page of the application. The user is also able to view their profile on the top right or sign out of their account.
 
-![](images/InventoryList.png)
+![](images/statusweb.png)
 
 ### Individual Drug Page 
 Each medication that appears on the inventory status page will have an individual drug page that can be accessed through the inventory page by clicking on the medication in the list. As of now, the inventory page does not have a way to access the individual drug page besides manually changing the web address to "/drugpage". However we plan to implement this page via the medication status page in future milestones.
 
 ![](images/drugpageweb.png)
+
+### Dispense Form Page 
+When a user wants to dispense a medication or supply, they will be able to fill out a form that will help with documentation and updating the inventory. This form is accessable through the navigation bar as the "Dispense Inventory" tab. This form have users fill out the following sections: Date of dispense, who was dispensing the medication, the type of inventory item that is being dispensed (medication, vaccines, patient supplies, or lab testing supplies), reason for dispense, who the item was dispensed to, the site that the dispense occurred, the drug name, the lot number, the expiration date, brand, quantity dispensed, units dispensed, and any additional notes that the user wants to put. the date dispensed and the dispensed by fields are already configured to be autofilled by the current date and time and the current user. This will help provide the user with a better experience.
+
+![](images/dispenseweb.png)
+
+
+### Dispense History Page 
+The user will also be able to see what medications and supplies have been dispensed using the dispense history page, which can be accessed in the navigation bar as the "Dispense Log" tab. This log will include the date and time the item was dispensed, reason for dispense, the item that was dispensed, the brand of that item, how much was dispense, and the user that logged the dispensed item at the time. This page also implements the use of pagination.
+
+![](images/historyweb.png)
 
 ### Logoff Page
 Upon logging off the site the user is prompted with a goodbye message confirming that they have logged off the system. Here they have an option of logging back in or going back to the landing page. 
@@ -132,7 +144,6 @@ If you would like to contact the creators of _**Minerva Medical**_ you can email
 [Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu\
 [Mujitaba Quadri](https://mujtaba-a-quadri.github.io) - mujtabaq@hawaii.edu\
 [Len Nguyen](https://len-nguyen.github.io) - lenn99@hawaii.edu\
-[Nelson Liang](https://nelson-liang.github.io) - nelson35@hawaii.edu\
 [Jessica Ocampo](https://jnocampo.github.io) - jnocampo@hawaii.edu\
 [Alyssandra Cabading](https://alyssandra-cabading.github.io) - alyssand@hawaii.edu\
 [Jake Hijirida](https://jakehiji.github.io) - jakehiji@hawaii.edu\
