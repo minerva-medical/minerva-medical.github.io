@@ -28,7 +28,7 @@ The user is prompted to the landing page containing the sites name and logo. Her
 ![](images/landingweb.png)
 
 ### Login and Sign-Up Page
-When the user clicks the “Login” button they are prompted to a page in which they must enter their existing username and password.
+When the user clicks the “Login” button they are prompted to a page in which they must enter their existing email and password.
 
 ![](images/signinweb.png)
 
