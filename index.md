@@ -32,9 +32,8 @@ When the user clicks the “Login” button they are prompted to a page in which
 
 ![](images/signinweb.png)
 
-Alternately, when the user clicks the “Register” button they are prompted to a page in which they must enter their First and Last Name, username, employeeID (subject to change) and password.
+Alternately, when the user clicks the “Register” button they are prompted to a page in which they must enter their First and Last Name, username, employeeID (subject to change) and password. This page is still in progress.
 
-![](images/renameweb.png)
 
 ### Inventory Categories
 After signing up or logging in, the user will be provided with the option of viewing the inventories for either medications, vaccines, lab/testing supplies, and  patient supplies.
@@ -47,7 +46,7 @@ Once a category is selected, the user will be brought to a page showing a table 
 ![](images/InventoryList.png)
 
 ### Logoff Page
-Upon logging off the site the user is prompted with a goodbye message confirming that they have logged off the system. Here they have an option of logging back in.
+Upon logging off the site the user is prompted with a goodbye message confirming that they have logged off the system. Here they have an option of logging back in or going back to the landing page. 
 
 ![](images/signoutweb.png)
 
@@ -115,9 +114,9 @@ $ meteor npm run lint
 ```
 
 ## Development History
-Milestone 1: In progress..
+Milestone 1: Completed
 
-Milestone 2: Start after completion of Milestone 1.
+Milestone 2: In progress..
 
 Milestone 3: Start after completion of Milestone 2.
 
