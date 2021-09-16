@@ -31,11 +31,11 @@ The user is prompted to the landing page containing the sites name and logo. Her
 ### Login and Sign-Up Page
 When the user clicks the “Login” button they are prompted to a page in which they must enter their existing email and password.
 
-![](images/signup.png)
+![](images/signinweb.png)
 
 Alternately, when the user clicks the “Register” button they are prompted to a page in which they must enter their username, email and, password. This page is still in progress, and the login page will be adjusted once fully completed with appropriate fields.  
 
-![](images/register.png)
+![](images/signup.png)
 
 ### Inventory Categories
 After signing up or logging in, the user will be provided with the option of viewing the inventories for either medications, vaccines, lab/testing supplies, and  patient supplies. This page is still in progress, and there is no current up and running mockup for this page available at this time. 
