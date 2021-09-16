@@ -42,8 +42,27 @@ After signing up or logging in, the user will be provided with the option of vie
 
 ![](images/Inventories.png)
 
+### Add to Inventory Form 
+If the user wants to add an item to the inventory, they will do so by using the add inventory form. This form is accessable through the "Add Inventory" tab in the navigation bar. This form will have the user fill out the following fields when adding an item: 
+
+* Item type
+* Drug Name 
+* Brand
+* Lot Number
+* Expiration date 
+* Quantity
+* Location
+* Whether the item was purchased or donated
+* If donated, by whom
+* Site item was added to 
+* Additional information
+
+Once the form is completed, the item will be added to the inventory and will be displayed on the Inventory Status page. 
+
+![](images/addweb.png)
+
 ### Inventory Status Page
-Once a category is selected, the user will be brought to a page showing a table of the chosen category. This will include information such as the type of supply/medication, name of the drug/vaccine/supply, location, current quantity in the inventory, lot number, and status. When the user selects a specific item from the list, we plan to have the user be broughto a individual page of the item showing more information on the item such as expiration date and additional notes. A navigation bar will also be present for the user to visit other inventory categories or to go to the home page of the application. The user is also able to view their profile on the top right or sign out of their account. The Inventory Status page will also incorporate pagination, which will provide users the ability to view items that are not able to fit on one page.
+Once a category is selected, the user will be brought to a page showing a table of the chosen category. This will include information such as the type of supply/medication, name of the drug/vaccine/supply, location, current quantity in the inventory, lot number, and status. When the user selects a specific item from the list, we plan to have the user be brough to a individual page of the item showing more information on the item such as expiration date and additional notes. A navigation bar will also be present for the user to visit other inventory categories or to go to the home page of the application. The user is also able to view their profile on the top right or sign out of their account. This page will also include a status dot that is either green (for high quantity), yellow (item needs to be restocked soon), and red (item needs to be restocked ASAP). The Inventory Status page will also incorporate pagination, which will provide users the ability to view items that are not able to fit on one page.
 
 ![](images/statusweb.png)
 
@@ -53,7 +72,22 @@ Each medication that appears on the inventory status page will have an individua
 ![](images/drugpageweb.png)
 
 ### Dispense Form Page 
-When a user wants to dispense a medication or supply, they will be able to fill out a form that will help with documentation and updating the inventory. This form is accessable through the navigation bar as the "Dispense Inventory" tab. This form have users fill out the following sections: Date of dispense, who was dispensing the medication, the type of inventory item that is being dispensed (medication, vaccines, patient supplies, or lab testing supplies), reason for dispense, who the item was dispensed to, the site that the dispense occurred, the drug name, the lot number, the expiration date, brand, quantity dispensed, units dispensed, and any additional notes that the user wants to put. the date dispensed and the dispensed by fields are already configured to be autofilled by the current date and time and the current user. This will help provide the user with a better experience.
+When a user wants to dispense a medication or supply, they will be able to fill out a form that will help with documentation and updating the inventory. This form is accessable through the navigation bar as the "Dispense Inventory" tab. This form have users fill out the following fields: 
+
+* Date of dispense
+* Who was dispensing the medication 
+* The type of inventory item that is being dispensed (medication, vaccines, patient supplies, or lab testing supplies)
+* Reason for dispense
+* Who the item was dispensed to
+* The site that the dispense occurred
+* The drug name, the lot number
+* The expiration date
+* Brand
+* Quantity dispensed
+* Units dispensed
+* Additional notes that the user wants to include
+ 
+The date dispensed and the dispensed by fields are already configured to be autofilled by the current date and time and the current user. This will help provide the user with a better experience.
 
 ![](images/dispenseweb.png)
 
