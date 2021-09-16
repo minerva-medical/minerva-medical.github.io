@@ -20,7 +20,8 @@ This application will keep track of inventory for items such as medications, vac
 
 ## User Guide
 
-Currently our application is in the early stages of development. Below are screenshots of mockups created for our team to work towards. 
+Currently our application is in the early stages of development. Below are screenshots of mockups created using Semantic UI React and Meteor. As of now, these pages are not fully functional and are instead used to provide our team with an idea of what kind of information and user interface we want to display on each page for the final product. 
+
 ### Our Progress...
 ### Landing Page
 The user is prompted to the landing page containing the sites name and logo. Here they are presented with two options to login or register a new account.
@@ -42,12 +43,12 @@ After signing up or logging in, the user will be provided with the option of vie
 ![](images/Inventories.png)
 
 ### Inventory Status Page
-Once a category is selected, the user will be brought to a page showing a table of the chosen category. This will include information such as drug/vaccine/supply, lot number, expiration, and quantity. When the user selects a specific item from the list, a popup of the item will be displayed on the screen showing more information on the item such as status and location. A navigation bar will also be present for the user to visit other inventory categories or to go to the home page of the application. The user is also able to view their profile on the top right or sign out of their account.
+Once a category is selected, the user will be brought to a page showing a table of the chosen category. This will include information such as the type of supply/medication, name of the drug/vaccine/supply, location, current quantity in the inventory, lot number, and status. When the user selects a specific item from the list, we plan to have the user be broughto a individual page of the item showing more information on the item such as expiration date and additional notes. A navigation bar will also be present for the user to visit other inventory categories or to go to the home page of the application. The user is also able to view their profile on the top right or sign out of their account. The Inventory Status page will also incorporate pagination, which will provide users the ability to view items that are not able to fit on one page.
 
 ![](images/statusweb.png)
 
 ### Individual Drug Page 
-Each medication that appears on the inventory status page will have an individual drug page that can be accessed through the inventory page by clicking on the medication in the list. As of now, the inventory page does not have a way to access the individual drug page besides manually changing the web address to "/drugpage". However we plan to implement this page via the medication status page in future milestones.
+Each medication that appears on the inventory status page will have an individual drug page that can be accessed through the inventory page by clicking on the medication in the list. This page will include more information about the item/medication, as well as additional notes that may have been added by another user during the time of adding the item to the inventory. As of now, the inventory page does not have a way to access the individual drug page besides manually changing the web address to "/drugpage". However we plan to implement this page via the medication status page in future milestones, or perhaps implement a transitionable portal so that the user will be able to stay on the inventory status page while still being able to view the medication in detail. 
 
 ![](images/drugpageweb.png)
 
