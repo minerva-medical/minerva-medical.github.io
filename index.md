@@ -45,6 +45,11 @@ Once a category is selected, the user will be brought to a page showing a table 
 
 ![](images/InventoryList.png)
 
+### Individual Drug Page 
+Each medication that appears on the inventory status page will have an individual drug page that can be accessed through the inventory page by clicking on the medication in the list. As of now, the inventory page does not have a way to access the individual drug page besides manually changing the web address to "/drugpage". However we plan to implement this page via the medication status page in future milestones.
+
+![](images/drugpageweb.png)
+
 ### Logoff Page
 Upon logging off the site the user is prompted with a goodbye message confirming that they have logged off the system. Here they have an option of logging back in or going back to the landing page. 
 
