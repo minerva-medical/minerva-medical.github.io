@@ -33,7 +33,7 @@ When the user clicks the “Login” button they are prompted to a page in which
 
 ![](images/signinweb.png)
 
-Alternately, when the user clicks the “Register” button they are prompted to a page in which they must enter their username, email and, password. This page is still in progress, and the login page will be adjusted once fully completed with appropriate fields.  
+Alternately, when the user clicks the “Register” button they are prompted to a page in which they must enter their username, email and password. This page is still in progress, and the login page will be adjusted once fully completed with appropriate fields.  
 
 ![](images/signup.png)
 
