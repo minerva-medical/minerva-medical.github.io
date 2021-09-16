@@ -114,7 +114,8 @@ $ meteor npm run lint
 ```
 
 ## Development History
-Milestone 1: Completed
+Milestone 1: If you would like to view the progress made for Milestone 1, you can view it [here](https://github.com/minerva-medical/minerva/projects/1).
+For Milestone 1, our team created mockup pages for the dispense page, inventory status page, dispense history page,  and the individual medication page. We were able make changes to the login and sign out pages, as well as implement color patterns into out application. Our goal for the next milestone is to incorporate the data provided to us by the client into our application, providing an experience that is closer to the final product. 
 
 Milestone 2: In progress..
 
