@@ -25,16 +25,16 @@ Currently our application is in the early stages of development. Below are scree
 ### Landing Page
 The user is prompted to the landing page containing the sites name and logo. Here they are presented with two options to login or register a new account.
 
-![](images/landing.png)
+![](images/landingweb.png)
 
 ### Login and Sign-Up Page
 When the user clicks the “Login” button they are prompted to a page in which they must enter their existing username and password.
 
-![](images/login.png)
+![](images/signinweb.png)
 
 Alternately, when the user clicks the “Register” button they are prompted to a page in which they must enter their First and Last Name, username, employeeID (subject to change) and password.
 
-![](images/register.png)
+![](images/registerweb.png)
 
 ### Inventory Categories
 After signing up or logging in, the user will be provided with the option of viewing the inventories for either medications, vaccines, lab/testing supplies, and  patient supplies.
@@ -49,7 +49,7 @@ Once a category is selected, the user will be brought to a page showing a table 
 ### Logoff Page
 Upon logging off the site the user is prompted with a goodbye message confirming that they have logged off the system. Here they have an option of logging back in.
 
-![](images/Logout.png)
+![](images/signoutweb.png)
 
 ## Developer Guide
 If you wish to install the _**Minerva**_ application locally, you can follow the directions below. 
