@@ -9,6 +9,8 @@
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
+![ci-badge](https://github.com/minerva-medical/minerva-matrp/workflows/minerva-matrp/badge.svg)
+
 ## Overview
 
 Welcome to _**Minerva Medical!**_ The goal of this project is to create and provide an application that keeps track of supply inventory for the _**Hawaii Homeless and Medical Outreach Project H.O.M.E**_, who helps provide medical care to residents around the island by means of a mobile clinic. 
