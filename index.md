@@ -41,18 +41,18 @@ Alternately, when the user clicks the “Register” button they are prompted to
 
 
 ### Add to Inventory Form 
-If the user wants to add an item to the inventory, they will do so by using the add inventory form. This form is accessable through the "Add Inventory" tab in the navigation bar. This form will have the user fill out the following fields when adding an item: 
+If the user wants to add an item to the inventory, they will do so by using the add inventory form. This form is accessible through the "Add Inventory" tab in the navigation bar. This form will have the user fill out the following fields when adding an item: 
 
 * Item type
 * Drug Name 
+* Drug Type(s)
 * Brand
 * Lot Number
 * Expiration date 
-* Quantity
+* Minimum Quantity
+* Quantity + Unit
 * Location
 * Whether the item was purchased or donated
-* If donated, by whom
-* Site item was added to 
 * Additional information
 
 Once the form is completed, the item will be added to the inventory and will be displayed on the Inventory Status page. 
@@ -60,7 +60,7 @@ Once the form is completed, the item will be added to the inventory and will be 
 ![](images/Add-matrp.png)
 
 ### Inventory Status Page
-The user will be brought to the status page when selection the "Status Inventory" navbar item. Once arriving to the page, the user will be presented with a table of the items in the inventory. The page is broken up into tabs with different inventory items, where the user has the option to go through each tab to view the inventory associated with the type of item selected (medications, vaccinations, etc). This table will include information such as the type of supply/medication, name of the drug/vaccine/supply, location, current quantity in the inventory, lot number, and status. Each table row will have a cell that has an information button, the user will be brought to a modal containing more information about the selected item. The user is also able to view their profile on the top right of the navbar or sign out of their account. This page will also include a status dot that is either green (for high quantity), yellow (item needs to be restocked soon), and red (item needs to be restocked ASAP). The Inventory Status page will also incorporate pagination, which will provide users the ability to view items that are not able to fit on one page. As of right now, we currently only have default values for the medication collection displaying. The other tabs are currently not functional, but our team plans to improve functionaliity in future milestones.
+The user will be brought to the status page when selection the "Status Inventory" navbar item. Once arriving to the page, the user will be presented with a table of the items in the inventory. The page is broken up into tabs with different inventory items, where the user has the option to go through each tab to view the inventory associated with the type of item selected (medications, vaccinations, etc). This table will include information such as the type of supply/medication, name of the drug/vaccine/supply, location, current quantity in the inventory, lot number, and status. Each table row will have a cell that has an information button, the user will be brought to a modal containing more information about the selected item. The user is also able to view their profile on the top right of the navbar or sign out of their account. This page will also include a status dot that is either green (for high quantity), yellow (item needs to be restocked soon), and red (item needs to be restocked ASAP). The Inventory Status page will also incorporate pagination, which will provide users the ability to view items that are not able to fit on one page. As of right now, we currently only have default values for the medication collection displaying. The other tabs are currently not functional, but our team plans to improve functionality in future milestones.
 
 ![](images/Status-matrp.png)
 
@@ -70,7 +70,7 @@ Each item that appears on the inventory status page will have an individual info
 ![](images/Status-modal-matrp.png)
 
 ### Dispense Form Page 
-When a user wants to dispense a medication or supply, they will be able to fill out a form that will help with documentation and updating the inventory. This form is accessable through the navigation bar as the "Dispense Inventory" tab. This form have users fill out the following fields: 
+When a user wants to dispense a medication or supply, they will be able to fill out a form that will help with documentation and updating the inventory. This form is accessible through the navigation bar as the "Dispense Inventory" tab. This form have users fill out the following fields: 
 
 * Date of dispense
 * Who was dispensing the medication 
@@ -107,7 +107,7 @@ If you wish to install the _**Minerva**_ application locally, you can follow the
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, download a copy of [Minerva](https://github.com/minerva-medical/minerva).
+Second, download a copy of [Minerva](https://github.com/minerva-medical/minerva-matrp).
 
 Third, open up your terminal/command prompt and cd into the app directory of the Minerva Medical copy you had just downloaded
 and install the necessary libraries by invoking meteor npm install:
@@ -169,7 +169,7 @@ $ meteor npm run lint
 Milestone 1: If you would like to view the progress made for Milestone 1, you can view it [here](https://github.com/minerva-medical/minerva/projects/1).
 For Milestone 1, our team created mockup pages for the dispense page, inventory status page, dispense history page,  and the individual medication page. We were able make changes to the login and sign out pages, as well as implement color patterns into out application. Our goal for the next milestone is to incorporate the data provided to us by the client into our application, providing an experience that is closer to the final product. 
 
-Milestone 2: If you would like to view the progress made for Milestone 2, you can view it [here](https://github.com/minerva-medical/minerva-matrp).
+Milestone 2: If you would like to view the progress made for Milestone 2, you can view it [here](https://https://github.com/minerva-medical/minerva-matrp/projects/1).
 For Milestone 2, our team started implementing more functionality in our website. We created tabs for both the add and dispense form for the different type of items that can be added or dispensed from the inventory. We also created a default collection for the inventory, and mapped out that collection into the status and dispense-history pages. We added modals to both the status and dispense-history pages so that users will be able to view more information about the item being displayed. Our goal for the next milestone is to implement more functionality and incorporate the data provided to us by the client. 
 
 Milestone 3: Start after completion of Milestone 2.
