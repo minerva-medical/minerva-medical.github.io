@@ -65,7 +65,7 @@ The user will be brought to the status page when selection the "Status Inventory
 ![](images/Status-matrp.png)
 
 ### Inventory Modal Page
-Each medication that appears on the inventory status page will have an individual drug page that can be accessed through the inventory page by clicking on the medication in the list. This page will include more information about the item/medication, as well as additional notes that may have been added by another user during the time of adding the item to the inventory. As of now, the inventory page does not have a way to access the individual drug page besides manually changing the web address to "/drugpage". However we plan to implement this page via the medication status page in future milestones, or perhaps implement a transitionable portal so that the user will be able to stay on the inventory status page while still being able to view the medication in detail. 
+Each item that appears on the inventory status page will have an individual information page that can be accessed through the status page by clicking on the information button associated with each inventory item row. This page will include more information about the item/medication, as well as additional notes that may have been added by another user during the time of adding the item to the inventory. This modal also will include an edit button, where admin users will have the ability to make an edit to the information of the item. As of now, the modal edit button it not functional, but out team plans to implement a second modal page that will allow users to make edits in future milestones. 
 
 ![](images/Status-modal-matrp.png)
 
