@@ -95,6 +95,9 @@ The user will also be able to see what medications and supplies have been dispen
 
 ![](images/Log-matrp.png)
 
+### Dispense History Modal Page
+Similar the Status Inventory page, the Dispense History page will also implement the user of a modal. As of now, the modal edit button it not functional, but out team plans to implement a second modal page that will allow users to make edits in future milestones. 
+
 ![](images/Log-modal-matrp.png)
 
 ### Logoff Page
