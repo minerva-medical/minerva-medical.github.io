@@ -181,6 +181,15 @@ For Milestone 2, our team started implementing more functionality in our website
 If you would like to view the progress made for Milestone 3, you can view it [here](https://github.com/minerva-medical/minerva-matrp/projects/2). <br>
 For Milestone 3, our team implemented form functionality such as adding and dispensing medication, and updating medication notes. Other features include forms auto-filling upon the selection of a lot number, sweet alert timeouts, and forms clearing upon successful insert/update. In addition, we implemented some filter features to the status and dispense log pages. Also, we imported the sample inventory .csv file to our Medications collection so we have real data to work with. Lastly, we made several UI changes such as improving layouts and responsiveness. Our goal for the next milestone is to implement more functionality for the status and dispense log pages and begin adding vaccinations and supplies.
 
+### Milestone 4
+In process...
+
+### Milestone 5
+Coming Soon..
+
+### Milestone 6
+Coming Soon..
+
 ## Contact Us
 If you would like to contact the creators of _**Minerva Medical**_ you can email us at:
 
