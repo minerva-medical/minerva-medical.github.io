@@ -58,7 +58,6 @@ The form will also autofill when a lot number has been inputted into the form. F
 Once the form is completed, the item will be added to the inventory and will be displayed on the Inventory Status page. 
 
 <br>
-<br>
 Below is the Add Medication form
 ![](images/add-medication-latest.png)
 <br>
@@ -78,8 +77,10 @@ The user will be brought to the status page when selection the "Status Inventory
 Below is the medication inventory list
 ![](images/inventory-status-latest.png)
 <br>
+<br>
 Below is the vaccine inventory list
 ![](images/inventory-status-vaccine.png)
+<br>
 <br>
 Below is the supply inventory list
 ![](images/inventory-status-supply.png)
@@ -117,8 +118,10 @@ The date dispensed and the dispensed by fields are already configured to be auto
 Below is the Dispense Medication form
 ![](images/dispense-medication-latest.png)
 <br>
+<br>
 Below is the dispense vaccine form
 ![](images/dispense-vaccine-latest.png)
+<br>
 <br>
 Below is the dispence supply form
 ![](images/dispense-supply-latest.png)
