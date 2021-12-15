@@ -57,13 +57,16 @@ If the user wants to add an item to the inventory, they will do so by using the 
 The form will also autofill when a lot number has been inputted into the form. For example, if a lot number is filled in, then the rest of the fields associated with that lot number (medication name, brand, location, etc) will auto fill, providing a smoother experience for the user. 
 Once the form is completed, the item will be added to the inventory and will be displayed on the Inventory Status page. 
 
-<br/>
+<br>
+<br>
 Below is the Add Medication form
 ![](images/add-medication-latest.png)
-<br/>
+<br>
+<br>
 Below is the Add Vaccine form
 ![](images/add-vaccine-latest.png)
-<br/>
+<br>
+<br>
 Below is the Add Supply form
 ![](images/add-supply-latest.png)
 
