@@ -142,7 +142,7 @@ Users will also have the abilty to access the manage dropdowns page, which will 
 ![](images/manage-dropdowns.png)
 
 ### Admin - User Management
-Our team also decided to implement a means of managing user accounts in out web application. When logged in as an admin users, users will be able to either create, edit, or view a list of how many users are using the application. Users will be able to create an account for new user (such as a student) and create credentials for that user to login. Once the account is created, users will be redirected to the application logged in as the new user that had just been created. As of right now, the account editing page has not been implemented, and the account creation page is not fully functional. 
+Our team also decided to implement a means of managing user accounts in our web application. When logged in as an admin user, users will be able to either create, edit, or view a list of how many users are using the application. Users will be able to create an account for a new user (such as a student) and create credentials for that user to login. Once the account is created, users will be redirected to the application logged in as the new user that had just been created. As of right now, the account editing page has not been implemented, and the account creation page is not fully functional. 
 
 <br>
 Below is the general user management page, where admin users can either create a user account, edit a user account, or view a list of how many users are in the web application database.
